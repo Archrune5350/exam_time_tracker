@@ -1,0 +1,28 @@
+{
+  "appTitle": "My App",
+  "home": "Home",
+  "settings": "Settings",
+  "history": "History",
+
+  "appearance": "Appearance",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "languages": "Languages",
+  "english": "English",
+  "spanish": "Spanish",
+  "danish": "Danish",
+
+  "createTimer": "Create timer",
+  "timerName": "Timer name",
+  "groupTimer": "Group timer",
+  "groupMembers": "Group members",
+  "name": "Name",
+  "examTime": "Exam time",
+  "time": "Time",
+
+  "start": "Start",
+  "stop": "Stop",
+  "reset": "Reset",
+  "stopAll": "Stop all",
+  "resetAll": "Reset all"
+}

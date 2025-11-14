@@ -1,0 +1,28 @@
+{
+  "appTitle": "Min App",
+  "home": "Hjem",
+  "settings": "Indstillinger",
+  "history": "Historie",
+
+  "appearance": "Udseende",
+  "darkMode": "Mørk tilstand",
+  "language": "Sprog",
+  "languages": "Sprog",
+  "english": "Engelsk",
+  "spanish": "Spansk",
+  "danish": "Dansk",
+
+  "createTimer": "Opret timer",
+  "timerName": "Timer navn",
+  "groupTimer": "Gruppe timer",
+  "groupMembers": "Gruppe medlemmer",
+  "name": "Navn",
+  "examTime": "Eksamens tid",
+  "time": "Tid",
+
+  "start": "Start",
+  "stop": "Stop",
+  "reset": "Nulstil",
+  "stopAll": "Stop alle",
+  "resetAll": "Nulstil alle"
+}
